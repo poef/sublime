@@ -11,7 +11,7 @@
 		"meta description": {
 			"content": "Demo site with lists and templates"
 		},
-		"title": "Sunt In Culpa Officia Deserunt",
-		"subtitle": "dolore magna aliqua enim ad minim veniam occaecat"
+		"title": "Simply edit the web",
+		"subtitle": "A demo site with lists and templates. <a href=\"#vedor-edit\">Edit me</a>, use the key 'demo'!"
 	}
 }
