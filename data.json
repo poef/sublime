@@ -1,0 +1,17 @@
+{
+	"/simple-edit/sublime/": {
+		"menu": []
+	},
+	"/sublime/": {
+		"body": [],
+		"meta title": "Simply edit the web",
+		"meta author": {
+			"content": "pixelhint.com, modified by ylebre"
+		},
+		"meta description": {
+			"content": "Demo site with lists and templates"
+		},
+		"title": "Sunt In Culpa Officia Deserunt",
+		"subtitle": "dolore magna aliqua enim ad minim veniam occaecat"
+	}
+}
