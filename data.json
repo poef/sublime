@@ -24,5 +24,10 @@
 	"/sublime/bla/": {
 		"title": "Bla In Culpa Officia Deserunt",
 		"body": []
+	},
+	"/sublime/asdf/": {
+		"title": "Sunt In Culpa Officia Deserunt",
+		"body": [],
+		"data-simply-page-template": "index.html"
 	}
 }
