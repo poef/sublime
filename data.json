@@ -20,5 +20,9 @@
 	"/sublime/test/": {
 		"title": "Sunt In Culpa Officia Deserunt",
 		"body": []
+	},
+	"/sublime/bla/": {
+		"title": "Bla In Culpa Officia Deserunt",
+		"body": []
 	}
 }
