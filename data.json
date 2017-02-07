@@ -11,7 +11,7 @@
 		"meta description": {
 			"content": "Demo site with lists and templates"
 		},
-		"title": "Simply edit the web",
+		"title": "Simply edit the web.",
 		"subtitle": "A demo site with lists and templates. <a href=\"#simply-edit\">Edit me</a>, use the key 'demo'!"
 	},
 	"/simply-edit/sublime/": {
